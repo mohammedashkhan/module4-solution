@@ -1,2 +1,2 @@
 ashkhanGreeter.sayHello();
-johnGreeter.sayHi();
+johnGreeter.sayGoodbye();
