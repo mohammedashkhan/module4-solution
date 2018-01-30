@@ -1,5 +1,5 @@
 var johnGreeter = {};
 johnGreeter.name = "john";
-johnGreeter.sayHi = funtion () {
-	console.log("Hi" + johnGreeter.name);
+johnGreeter.sayGoodbye = funtion () {
+	console.log("Goodbye" + johnGreeter.name);
 }
