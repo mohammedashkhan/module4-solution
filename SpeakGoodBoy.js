@@ -8,21 +8,21 @@ JenGreeter.name = "Jen";
 JasonGreeter.name = "Jason";
 JimGreeter.name = "Jim";
 
-JohnGreeter.sayGoodbye = function () {
-console.log("Goodbye " + JohnGreeter.name);
+JohnGreeter.sayGoodBoy = function () {
+console.log("GoodBoy " + JohnGreeter.name);
 }
 
 
-JenGreeter.sayGoodbye = function () {
-console.log("Goodbye " + JenGreeter.name);
+JenGreeter.sayGoodBoy = function () {
+console.log("GoodBoy " + JenGreeter.name);
 }
 
 
-JasonGreeter.sayGoodbye = function () {
-console.log("Goodbye " + JasonGreeter.name);
+JasonGreeter.sayGoodBoy = function () {
+console.log("GoodBoy " + JasonGreeter.name);
 }
 
 
-JimGreeter.sayGoodbye = function () {
-console.log("Goodbye " + JimGreeter.name);
+JimGreeter.sayGoodBoy = function () {
+console.log("GoodBoy " + JimGreeter.name);
 }
